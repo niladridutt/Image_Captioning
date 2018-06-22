@@ -1,7 +1,7 @@
 # Imagine Captioning Model 
 
 Generate captions for your images using a CNN encoder and a RNN decoder.
-
+![Screenshot](encoder_decoder.png)
 
 Relevant links:
 
