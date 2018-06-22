@@ -8,15 +8,15 @@ Generate captions for your images using a CNN encoder and a RNN decoder.
 
 ![Screenshot](1.png)
 
-a woman in a white shirt playing tennis on a tennis court
+Generated caption : a woman in a white shirt playing tennis on a tennis court
 
 ![Screenshot](2.png)
 
-a woman is riding a horse in a field
+Generated caption : a woman is riding a horse in a field
 
 ![Screenshot](3.png)
 
-a pizza with a bunch of toppings on it
+Generated caption : a pizza with a bunch of toppings on it
 
 -----
 # Relevant links to get the dataset:
