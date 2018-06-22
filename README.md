@@ -6,6 +6,7 @@ Generate captions for your images using a CNN encoder and a RNN decoder.
 ----
 # Examples of generated captions:
 
+
 Generated caption : a woman in a white shirt playing tennis on a tennis court
 
 ![Screenshot](1.png)
