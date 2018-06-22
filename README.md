@@ -3,6 +3,20 @@
 Generate captions for your images using a CNN encoder and a RNN decoder.
 ![Screenshot](encoder_decoder.png)
 
+Examples of generated captions:
+
+![Screenshot](1.png)
+
+a woman in a white shirt playing tennis on a tennis court
+
+![Screenshot](2.png)
+
+a woman is riding a horse in a field
+
+![Screenshot](3.png)
+
+a pizza with a bunch of toppings on it
+
 Relevant links to get the dataset:
 
 Ttraining images http://msvocds.blob.core.windows.net/coco2014/train2014.zip
